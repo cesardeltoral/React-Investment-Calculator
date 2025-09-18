@@ -33,7 +33,7 @@ React-Investment-Calculator
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/React-Investment-Calculator.git
+   git clone https://github.com/cesardeltoral/React-Investment-Calculator.git
    ```
 
 Navigate to the project folder:
